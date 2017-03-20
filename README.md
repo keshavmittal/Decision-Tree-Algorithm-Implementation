@@ -6,7 +6,8 @@ Python final_tree.py filename --rules
 
 
 Instructions:
-Code is working with adult1 and adult1.
+Code is working with adult1.
+Data file included.
 Space delimiter used so working properly with uniform spacing labels.
 
 Last column default selected as the target attribute
